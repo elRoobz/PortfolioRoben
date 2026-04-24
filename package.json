@@ -1,4 +1,9 @@
 {
+  "scripts": {
+    "build": "cd Portfolio2026 && npm run build",
+    "dev": "cd Portfolio2026 && npm run dev",
+    "preview": "cd Portfolio2026 && npm run preview"
+  },
   "dependencies": {
     "@vue/cli-service": "^5.0.9",
     "firebase": "^12.12.1"
